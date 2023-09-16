@@ -35,3 +35,5 @@ print("List is:");
 print(list);
 print("Sum of elements is: " + str(listAdd(list)));
 print("Product of elements is: " + str(listProd(list)));
+print("The list reversed:");
+print(listReverse(list));
