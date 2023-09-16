@@ -12,6 +12,13 @@ def listProd(list):
         prod *= list[i];
     return prod;
 
+#function to reverse list elements
+def listReverse(list):
+    revList = list;
+    revList.reverse();
+    return revList;
+
+
 #main code
 list = [];
 i = 0;
